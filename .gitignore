@@ -1,0 +1,8 @@
+/.idea/*
+/target/
+/test-output/
+/logs/
+/Demo.iml
+/bin/*
+PythonSelenium/.idea/*
+PythonSelenium/tests/geckodriver.log
